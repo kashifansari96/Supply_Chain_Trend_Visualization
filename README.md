@@ -11,8 +11,9 @@ This project focuses on visualizing trends in supply chain data. The analysis in
 
 ## Installation
 Install all the requirements using the requirements file.
-'''bash
+```python
 pip install -r requirements.txt
+````
 
 ## Steps and Analysis
 1. **Data Loading and Cleaning**
