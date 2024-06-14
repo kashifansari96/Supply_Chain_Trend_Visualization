@@ -54,7 +54,7 @@ Clone the repository and run the provided code to see the detailed analysis and 
 
 ```python
 # Clone the repository
-git clone [https://github.com/kashifansari96/supply_chain_trend_visualization.git]
+git clone [https://github.com/kashifansari96/Supply_Chain_Trend_Visualization.git]
 
 # Navigate to the project directory
 cd supply-chain-trend-visualization
