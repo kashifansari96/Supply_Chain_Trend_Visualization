@@ -9,6 +9,11 @@ This project focuses on visualizing trends in supply chain data. The analysis in
 - matplotlib
 - seaborn
 
+## Installation
+Install all the requirements using the requirements file.
+'''bash
+pip install -r requirements.txt
+
 ## Steps and Analysis
 1. **Data Loading and Cleaning**
    - Loaded the data into a DataFrame.
